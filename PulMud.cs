@@ -7,7 +7,7 @@ using UnityEngine.InputSystem;
 
 namespace GorillaTag.Pull
 {
-	[BepInPlugin("org.bablo.gtag.legitpull", "Legit Pull", "1.4.0")]
+	[BepInPlugin("org.bablo.gtag.legitpull", "Legit Pull", "1.4.1")]
 	public class PulMud : BaseUnityPlugin
 	{
 		public static void MainEntry()
